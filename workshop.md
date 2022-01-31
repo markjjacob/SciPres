@@ -9,6 +9,8 @@ comment: Impactful English Presentations
 
 -->
 
+[![LiaScript](https://github.com/markjjacob/SciPres/blob/main/workshop.md)
+
 # Communication and presentation in the academic context
 ** How to be confident and persuasive**
 

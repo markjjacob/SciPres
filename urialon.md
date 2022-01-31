@@ -9,10 +9,13 @@ comment: Impactful English Presentations
 
 -->
 
+[![LiaScript](https://github.com/markjjacob/SciPres/blob/main/urialon.md)
+
 # How To Give a Good Talk
 **Uri Alon**
-
 *Molecular Cell 36, 2009 Elsevier Inc*
+
+[PDF](https://www.cell.com/action/showPdf?pii=S1097-2765%2809%2900742-4)
 
 
 {{1}} > Anyone can give good talk.
@@ -23,7 +26,7 @@ comment: Impactful English Presentations
 {{4-7}} >>Preparation
 {{5-7}} >>Presentation
 {{6-7}} >>Questions
-{{8-9}} >Grafik
+{{8}} ![Bild](https://ars.els-cdn.com/content/image/1-s2.0-S1097276509007424-gr1.jpg)
 
 {{9}} >Goal: Let your inner glow and insights shine out
 
@@ -48,7 +51,7 @@ comment: Impactful English Presentations
          [( )] An assay of cell number
          [(X)] The number of cells increases with time
 
-{{9-10}} Grafik
+{{9-10}}![Bild](https://ars.els-cdn.com/content/image/1-s2.0-S1097276509007424-gr2.jpg)
 
 {{10}} > Finding the premise of your slides should be considered an integral part of your research.
 
@@ -64,7 +67,64 @@ comment: Impactful English Presentations
 
 ## Presentation
 
+{{1}} A good presentation is a two-way communication --> ***Make eye contact***, don't bury yourself in your slides
+
+{{2}} Look at one person for one sentence.
+
+{{3-4}} ![Bild](https://ars.els-cdn.com/content/image/1-s2.0-S1097276509007424-gr3.jpg)
+
+{{4}} Remember the audience wants you to succueed in giving an enjoyable talk.
+
+{{5}} Eye contact enables you to see if the audience is with you. If they are not, it enables you to adjust.
+
+{{6}} As you grow more proficient, try to build drama over arc of the talk, by sharing how your research originated from your sense of wonder about the topic.
+
+{{7}} Body language is also important for good communication, avoid a contorted position:
+       shoulder turned to audience, eyes on his/her own slides, and arms crossed holding a laser pointer in one hand and changing slides with the other.
+
+{{8}} >Most people find, after an initial awkwardness, that open body language makes them feel better than closed body language.
+
+{{9}} Guide your audience through the results of your research
+
+{{10}}[( )] Do you understand?
+      [(X)] Did I explain myself?
+
+{{11}} > --> You place responsibility for clarity on yourself
+
 ## Question
+
+> Questions are a precious opportunity to get feedback on your research.
+
+{{1}} > Make eye contact with the questioners
+
+{{2}} > Repeat the question in their words so everyone can hear it.
+
+{{3}} > Check the eyes to see if you got the meaning.
+
+{{4}} >> If not, ask for more context.
+
+{{5}} > Accept the question is worthwhile
+
+{{6}} > Answer the content, not the tone of the question.
+
+
+{{7}} > The first question is very important, because the way that you answer it will set the frame for the next questions.
+
+{{8}} > Take questions as suggestion for the next talk --> Preparation
+
+## Overcoming Stage Fright
+
+{{1}} Almost **everyone** has stage fright.
+
+{{2}} Stage fright: the fear that the audience will judge you, find you at fault, and throw you out of the community
+
+{{3}} Stage fright **makes you:**
+
+{{4}} > overprepare and write every word on the slides, try to accumulate all possible information,
+{{4}} > freeze and delay preparing
+
+{{5}} > Stage fright begins when you are assigned the task of giving a presentation.
+
 
 ## Videos
 
@@ -91,3 +151,20 @@ Part 5
 Part 6
 
 !?[Part 6](https://www.youtube.com/watch?v=y-fhwNa7fnQ)
+
+
+## Additional Reading
+
+[Dramatic action](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193404)
+
+[Dramatic Writing](https://archive.org/details/dli.bengal.10689.12919/page/n11/mode/2up)
+
+[Scientific Problem](https://www.cell.com/action/showPdf?pii=S1097-2765%2809%2900641-8)
+
+[Public Narrative](https://www.youtube.com/watch?v=r1Z2Rog--P8&list=PLaT8gjnOmQl2fjCj76sAH1jXwKtlASzjN)
+
+[Public Narrative](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiaw-WYidz1AhUSH-wKHZm7DxMQFnoECAoQAQ&url=https%3A%2F%2Fdash.harvard.edu%2Fbitstream%2Fhandle%2F1%2F30760283%2FPublic-Narrative-Worksheet-Fall-2013-.pdf&usg=AOvVaw1mtQs0b96Q0GvX425Tj9Jb)
+
+[Public Narrative](https://www.youtube.com/watch?v=g7CW_10C7lQ)
+
+[Public Narrative](https://dash.harvard.edu/bitstream/handle/1/29314925/Public_Narrative_Collective_Action_and_Power.pdf)
