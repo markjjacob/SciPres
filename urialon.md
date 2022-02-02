@@ -6,10 +6,10 @@ version:  1.0.0
 language: de
 narrator: Deutsch Female
 comment: Impactful English Presentations
-
+mode: presentation
 -->
 
-![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://github.com/madoer/SciPres/blob/main/urialon.md)
+![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/madoer/SciPres/main/urialon.md#2)
 
 # How To Give a Good Talk
 **Uri Alon**
