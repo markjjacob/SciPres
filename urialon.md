@@ -9,7 +9,7 @@ comment: Impactful English Presentations
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)(https://LiaScript.github.io/course/?https://github.com/madoer/SciPres/urialon.md)]
+![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://github.com/madoer/SciPres/blob/main/urialon.md)
 
 # How To Give a Good Talk
 **Uri Alon**
