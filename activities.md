@@ -64,6 +64,10 @@ Spiel kann mit diesen Break out rooms bei BBB gemacht werden. Also immer zwei zu
 **Material:**
 slide flipchart, paper and pens
 
+Ich habe die über so ein Onlinetool erstellt ich weiss nicht ob das okay wegen Lizenz und so
+
+![Mindmap](https://github.com/markjjacob/SciPres/blob/main/Mindmap.png)
+
 Improve on this mind map!
 
 Participants have 15 minutes to get ideas (with a partner but first on their own for 5 minutes)
