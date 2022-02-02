@@ -8,8 +8,8 @@ narrator: Deutsch Female
 comment: Impactful English Presentations
 
 -->
-[![LiaScript]]
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)(https://LiaScript.github.io/course/?https://github.com/madoer/SciPres/urialon)
+
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)(https://LiaScript.github.io/course/?https://github.com/madoer/SciPres/urialon.md)]
 
 # How To Give a Good Talk
 **Uri Alon**
