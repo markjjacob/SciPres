@@ -6,10 +6,10 @@ version:  1.0.0
 language: de
 narrator: Deutsch Female
 comment: Impactful English Presentations
-
+mode: presentation
 -->
 
-[![LiaScript](https://github.com/markjjacob/SciPres/blob/main/IEP.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/SciPres/blob/main/IEP.md)
 
 
 # Impacful English Presentations
