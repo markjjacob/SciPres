@@ -9,7 +9,7 @@ comment: Impactful English Presentations
 
 -->
 
-[![LiaScript](https://github.com/markjjacob/SciPres/blob/main/activities.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/SciPres/blob/main/activities.md)
 
 # List of activities
 
@@ -38,7 +38,7 @@ comment: Impactful English Presentations
 
 # Experience/Expectations
 
-**Aim:** To bring to mind specific sitautions participants have had relating to positive or negative experieneces of giving presentations (what about watching presentations/ being an audience member?). To focus on what the participants expect from the workshop.
+**Aim:** To bring to mind specific situations participants have had relating to positive or negative experiences of giving presentations (what about watching presentations/ being an audience member?). To focus on what the participants expect from the workshop.
 
 **Materials:** Moderation Cards (3 Colours)
 
@@ -50,8 +50,32 @@ Participants roleplay being at a social gathering. They find (a) partner and ask
 
 They discuss one question with a partner and write down his/her answers. When I clap my hands they find new partners and move on to the next question. When all three points have been discussed, participants stick their cards to a board and discuss all together. Cards for question 3 are put on the left-hand side of the expectations board. (To be moved at the end of the day)
 
+<!--
+@@@
+Spiel kann mit diesen Break out rooms bei BBB gemacht werden. Also immer zwei zusammen. Mit den Sammeln der Ideen ist ein wenig schwierig. Man könnte sie in einem Dokument sammeln und dieses als Hauptscreen beim Gruppencall aneigen.
+@end
+-->
+
 
 # Communication brainstorm
+
+**Aim:** For participants to consider what they mean by communicate and to consider all aspects of communication.
+
+**Material:**
+slide flipchart, paper and pens
+
+Improve on this mind map!
+
+Participants have 15 minutes to get ideas (with a partner but first on their own for 5 minutes)
+
+- 5 minutes - alone
+- 5 minutes - with a partner
+- 5 minutes - create the mindmap together
+
+Before we do this we'll have discussed the slide on the definition of communication.
+
+
+
 # Giving presentations
 # Brainstorming good presentations
 # Presentation basic activities

@@ -9,7 +9,7 @@ comment: Impactful English Presentations
 mode: presentation
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/madoer/SciPres/main/urialon.md#2)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/SciPres/main/urialon.md)
 
 # How To Give a Good Talk
 **Uri Alon**
@@ -73,7 +73,7 @@ mode: presentation
 
 {{3-4}} ![Bild](https://ars.els-cdn.com/content/image/1-s2.0-S1097276509007424-gr3.jpg)
 
-{{4}} Remember the audience wants you to succueed in giving an enjoyable talk.
+{{4}} Remember the audience wants you to succeed in giving an enjoyable talk.
 
 {{5}} Eye contact enables you to see if the audience is with you. If they are not, it enables you to adjust.
 
@@ -155,16 +155,20 @@ Part 6
 
 ## Additional Reading
 
-??[Dramatic action](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193404)
+[Dramatic action](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0193404&type=printable)
 
-??[Dramatic Writing](https://archive.org/details/dli.bengal.10689.12919/page/n11/mode/2up)
+Das Buch ist sehr lang und dauert deswegen relativ lange zum laden also mit ??
+[Dramatic Writing](https://archive.org/download/dli.bengal.10689.12919/10689.12919.pdf)
 
-??[Scientific Problem](https://www.cell.com/action/showPdf?pii=S1097-2765%2809%2900641-8)
+[Scientific Problem](https://www.cell.com/action/showPdf?pii=S1097-2765%2809%2900641-8)
 
-??[Public Narrative](https://www.youtube.com/watch?v=r1Z2Rog--P8&list=PLaT8gjnOmQl2fjCj76sAH1jXwKtlASzjN)
+??[Public Narrative](https://dash.harvard.edu/bitstream/handle/1/30760283/Public-Narrative-Worksheet-Fall-2013-.pdf)
 
-??[Public Narrative](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiaw-WYidz1AhUSH-wKHZm7DxMQFnoECAoQAQ&url=https%3A%2F%2Fdash.harvard.edu%2Fbitstream%2Fhandle%2F1%2F30760283%2FPublic-Narrative-Worksheet-Fall-2013-.pdf&usg=AOvVaw1mtQs0b96Q0GvX425Tj9Jb)
-
-??[Public Narrative](https://www.youtube.com/watch?v=g7CW_10C7lQ)
 
 ??[Public Narrative](https://dash.harvard.edu/bitstream/handle/1/29314925/Public_Narrative_Collective_Action_and_Power.pdf)
+
+### Videos
+
+!?[Public Narrative](https://www.youtube.com/watch?v=g7CW_10C7lQ)
+
+!?[Public Narrative](https://www.youtube.com/watch?v=r1Z2Rog--P8&list=PLaT8gjnOmQl2fjCj76sAH1jXwKtlASzjN)
