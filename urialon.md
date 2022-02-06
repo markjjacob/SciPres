@@ -19,13 +19,13 @@ comment: Impactful English Presentations
 
 {{2}} > All scientists should be trained in the basics of giving talks, to the great benefit of their research programs and the audience
 
-{{3}} >The three principles of a good talk areas follows:
-{{4-7}} >>Preparation
-{{5-7}} >>Presentation
-{{6-7}} >>Questions
-{{8-9}} >Grafik
+{{3}} > The three principles of a good talk areas follows:
+{{4-7}} >> Preparation
+{{5-7}} >> Presentation
+{{6-7}} >> Questions
+{{8-9}} > Grafik
 
-{{9}} >Goal: Let your inner glow and insights shine out
+{{9}} > Goal: Let your inner glow and insights shine out
 
 ## Preparation
 
