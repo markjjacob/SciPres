@@ -32,7 +32,7 @@ comment: Impactful English Presentations
 17. Evaluation criteria for presentations
 18. Conference small talk roleplay
 
-# Rules
+**Rules**
 
 > 1. Let people speak and finish their sentences
 
