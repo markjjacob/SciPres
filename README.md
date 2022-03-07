@@ -1,3 +1,3 @@
 # SciPres
 
-Please embed the videos here.
+Collection of liascript slides for a presentation workshop.
