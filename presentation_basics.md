@@ -86,6 +86,12 @@ Type of start?
 
 [[rhetorical question]]
 
+!?[Video](https://www.youtube.com/watch?v=Unzc731iCUY)
+
+Type of start?
+
+[[serious, factual, quotations]]
+
 # The audience
 
 > Who are they? -> **Identity**
