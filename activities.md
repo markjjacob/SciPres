@@ -2,7 +2,7 @@
 
 author:   Dr. Mark Jacob, Maximilian Dörnbrack
 email:
-version:  1.0.0
+version:  0.0.1
 language: de
 narrator: Deutsch Female
 comment: Impactful English Presentations
@@ -10,6 +10,14 @@ comment: Impactful English Presentations
 -->
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/SciPres/blob/main/activities.md)
+
+# Rules
+
+> 1. Let people speak and finish their sentences
+
+> 2. What is said in the workshop stays in the workshop
+
+> 3. We respect each other's opinion and ideas.
 
 # List of activities
 
@@ -32,22 +40,16 @@ comment: Impactful English Presentations
 17. Evaluation criteria for presentations
 18. Conference small talk roleplay
 
-**Rules**
-
-> 1. Let people speak and finish their sentences
-
-> 2. What is said in the workshop stays in the workshop
-
-> 3. We respect each other's opinion and ideas.
-
 # Ball game
 
 **Aim:**
 - to learn each other's names
 - to cooperate ahead of other activities
 - to break the ice at the beginning
+
 **Materials:** ball for each group
 Two groups of 8 participants stand in a circle. One person starts with the ball. He says a name and throws the ball to that person, but not to the person next to him/her. The next person says a name and throws the ball to that person. Finally the ball gets to back to the first person. The groups repeat this, getting faster and faster and I time them to see which group is faster. Then they find ways of going even faster (eg. by moving closer together)
+
 **Discussion:** Did you work well together? Is it important to know names?
 
 # Alphabetical names
@@ -138,6 +140,7 @@ Ist auch gut online möglich. Wieder mit den breakout Räumen kleine Gruppen ers
 **~~Activity 1~~**
 
 **Aim:** To practice the material I present to the participants on the principles of giving a good presentation.
+
 **Materials:** A printout version of the participants presentation
 
 Participants go through their presentations and identify a "premise" for the whole talk and premise for each slide.  
@@ -145,6 +148,7 @@ Participants go through their presentations and identify a "premise" for the who
 **~~Activity 2~~**
 
 **Aim:** To acclimatise participants to eye contact
+
 **Materials:** 2 chairs opposite each other. With a partner, participants look into each others eyes for one minute. Afterwards we discuss how this was for them.
 
 # Voice activities
@@ -178,16 +182,21 @@ Participants all stand up facing me. I give them instructions to stand up straig
 - Read the sentences with different feelings.
 
 **Note::**
+
 Pros = towards
+
 Aoide = a song
+
 **Prosody** the patterns of stress and intonation in a language
+
 **Intonation** the sound pattern of phrases and sentences produced by pitch variation in the voice.
 
 
 # Body language activities
 # Posture activities
 
-upright, turn towards audience, open
+> upright, turn towards audience, open
+
 # Putting it together activity
 
 **Mind** Grounding, Breathing, Expanding, Presence

@@ -2,7 +2,7 @@
 
 author:   Dr. Mark Jacob, Maximilian Dörnbrack
 email:
-version:  1.0.0
+version:  0.0.1
 language: de
 narrator: Deutsch Female
 comment: Impactful English Presentations
@@ -35,6 +35,62 @@ Examples
 - quotations
 - solution to a problem
 - humour
+
+## Videos
+
+!?[Video](https://youtu.be/8jPQjjsBbIc?t=12)
+
+Type of start?
+
+[[personal experience]]
+
+!?[Video](https://www.youtube.com/watch?v=H6n3iNh4XLI)
+
+Type of start?
+
+[[find commonalities with the audience]]
+
+!?[Video](https://www.youtube.com/watch?v=P_6vDLq64gE)
+
+Type of start?
+
+[[find commonalities with the audience, humour, new connected finding]]
+
+!?[Video](https://www.youtube.com/watch?v=eIho2S0ZahI)
+
+Type of start?
+
+[[solution to a problem, serious, factual]]
+
+!?[Video](https://www.youtube.com/watch?v=sRoqDVgFgSw)
+
+Type of start?
+
+[[serious, factual]]
+
+!?[Video](https://www.youtube.com/watch?v=qYvXk_bqlBk)
+
+Type of start?
+
+[[find commonalities with the audience, humour]]
+
+!?[Video](https://www.youtube.com/watch?v=LnJwH_PZXnM)
+
+Type of start?
+
+[[personal experience]]
+
+!?[Video](https://www.youtube.com/watch?v=-wkdH_wluhw)
+
+Type of start?
+
+[[rhetorical question]]
+
+!?[Video](https://www.youtube.com/watch?v=Unzc731iCUY)
+
+Type of start?
+
+[[serious, factual, quotations]]
 
 # The audience
 
@@ -194,6 +250,7 @@ We must publish an article in Nature this year.
 # Speech - Pace and Pauses
 
 **Pace**
+
 > **Slow down!**
 
 **Pauses**
