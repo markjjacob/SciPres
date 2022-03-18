@@ -12,7 +12,7 @@ comment: Impactful English Presentations
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/SciPres/blob/main/workshop.md)
 
 # Communication and presentation in the academic context
-** How to be confident and persuasive**
+** How to be confident and persuasive **
 
 ## Agenda
 
@@ -164,33 +164,33 @@ Where have we been and where do we want to go?
 ## Schedule
 **Day 1**
 
-| Time | Module | Description | Material |
-| - | - | - | - |
-|15| Greeting | Workshop overview, timetable and behavioral agreements|Behavior cards|
-|15| Icebraker|Ball game and alphabetical order of name task| Ball, my instructions|
-|30| Experience and Expectations| Pleasant/ unpleasant, experience and expectations | Cards, pin board |
-|30| Communication basics | What, why, who, when, where, how| Question cards and cards|
-|30| Coffee break|||
-|60| Presentations| Group 1: gives presentations Group 2: what is a good one| Pin board, flipchart sheet|
-|30| Plenum dicussion| Discussion of the presentations and ideas about good ones| Pin board, flipchart sheets|
-|90| Lunch break|||
-|45| Presentation basics 1| Preparation, practice and presentation||
-|45| Presentation basics 2| Voice, body language, posture and mind (and stage fright)||
-|30| Coffee break|||
-|45| Question sessions| Brainstorm, discuss, practice| flipchart|
-|30| Small talk| Brainstorm, discuss, practice| flipchart|
-|30| Minima rhetorica| Presentation of framework and match points to today's content| cards, pin board|
-|15| Expectations and round up day 1| Moving cards along expectations board| expectations board|
+| Time | Module                          | Description                                                   | Material                    |
+| ---- | ------------------------------- | ------------------------------------------------------------- | --------------------------- |
+| 15   | Greeting                        | Workshop overview, timetable and behavioural agreements       | Behaviour cards             |
+| 15   | Icebreaker                      | Ball game and alphabetical order of name task                 | Ball, my instructions       |
+| 30   | Experience and Expectations     | Pleasant/ unpleasant, experience and expectations             | Cards, pin board            |
+| 30   | Communication basics            | What, why, who, when, where, how                              | Question cards and cards    |
+| 30   | Coffee break                    |                                                               |                             |
+| 60   | Presentations                   | Group 1: gives presentations Group 2: what is a good one      | Pin board, flipchart sheet  |
+| 30   | Plenum discussion               | Discussion of the presentations and ideas about good ones     | Pin board, flipchart sheets |
+| 90   | Lunch break                     |                                                               |                             |
+| 45   | Presentation basics 1           | Preparation, practice and presentation                        |                             |
+| 45   | Presentation basics 2           | Voice, body language, posture and mind (and stage fright)     |                             |
+| 30   | Coffee break                    |                                                               |                             |
+| 45   | Question sessions               | Brainstorm, discuss, practice                                 | flipchart                   |
+| 30   | Small talk                      | Brainstorm, discuss, practice                                 | flipchart                   |
+| 30   | Minima rhetorica                | Presentation of framework and match points to today's content | cards, pin board            |
+| 15   | Expectations and round up day 1 | Moving cards along expectations board                         | expectations board          |
 
 **Day 2**
 
-| Time | Module | Description | Material |
-| - | - | - | - |
-|45| Preparing presentations| Preparing a poster presentation unsing Alon's principles| flipchart sheets|
-|45| Presenting| Presenting our posters using the principles we have learned||
-|30| Coffee break|||
-|15| Plenary discussion| Discussion of the presentations| flipchart|
-|30| Conference small talk| Role-play using the posters made earlier| Poster|
-|15| Workshop summary| Synthesis of the trainer input and the participant output|
-|15| My next steps| Questions about what you have learnt and your next steps| Cards|
-|15| Expectations and round up day 2| Moving cards along the expectations board and farewell| Expectations board|
+| Time | Module                          | Description                                                 | Material           |
+| ---- | ------------------------------- | ----------------------------------------------------------- | ------------------ |
+| 45   | Preparing presentations         | Preparing a poster presentation using Alon's principles     | flipchart sheets   |
+| 45   | Presenting                      | Presenting our posters using the principles we have learned |                    |
+| 30   | Coffee break                    |                                                             |                    |
+| 15   | Plenary discussion              | Discussion of the presentations                             | flipchart          |
+| 30   | Conference small talk           | Role-play using the posters made earlier                    | Poster             |
+| 15   | Workshop summary                | Synthesis of the trainer input and the participant output   |                    |
+| 15   | My next steps                   | Questions about what you have learnt and your next steps    | Cards              |
+| 15   | Expectations and round up day 2 | Moving cards along the expectations board and farewell      | Expectations board |

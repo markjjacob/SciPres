@@ -15,14 +15,14 @@ mode: presentation
 # Impacful English Presentations
 ** step-by-step guide **
 
-| Parameter                 | Kursinformationen                                                                                                                                                                                                                |
-| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Veranstaltung:**        | `Impactful English Presentations`                                                                                                                                                                                                |
-| **Semester**              | `Wintersemester 2021/22`                                                                                                                                                                                                         |
-| **Hochschule:**           | `Technische Universität Freiberg`                                                                                                                                                                                                |                                                                                                                                                                                              |
+| Parameter                 | Kursinformationen                                                              |
+| ------------------------- | ------------------------------------------------------------------------------ |
+| **Veranstaltung:**        | `Impactful English Presentations`                                              |
+| **Semester**              | `Wintersemester 2021/22`                                                       |
+| **Hochschule:**           | `Technische Universität Freiberg`                                              |
 | **Link auf Repository: ** | [https://github.com/markjjacob/SciPres](https://github.com/markjjacob/SciPres) |
-| **Autoren**               | @author                                                                                                                                                                                                                          |
-| **Kontakt**               | `Mark.Jacob@iuz.tu-freiberg.de`                                                                                                                                                                                                                         |
+| **Autoren**               | @author                                                                        |
+| **Kontakt**               | `Mark.Jacob@iuz.tu-freiberg.de`                                                |
 
 ## 1 Introducing yourself
 How to introduce yourself when presenting.

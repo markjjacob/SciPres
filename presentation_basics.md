@@ -395,17 +395,17 @@ Repeat the ◄─ Do you understand?───┼─► content
       │          │ Question │
       │          └──────────┘
       │                       No
-      └─────► Can you answer? ────► Think
-                      │               │
-                  Yes │               │
-                      ▼       Yes     ▼
+      └─────► Can you answer? ────►  Think
+                      │                │
+                  Yes │                │
+                      ▼       Yes      ▼
                  Give answer ◄─── Can you answer?
-                      │               │
-                      ▼               │
-     Yes  ◄── Do they understand?     │ No
-                     │                │
-                     │ No             │
-                     ▼                ▼
+                      │                │
+                      ▼                │
+     Yes  ◄── Do they understand?      │ No
+                      │                │
+                      │ No             │
+                      ▼                ▼
                Discussion or  ────► later
 ```
 
