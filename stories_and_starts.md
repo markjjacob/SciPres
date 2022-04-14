@@ -1,6 +1,5 @@
 <!--
 
-
 author:   Dr. Mark Jacob, Maximilian Dörnbrack
 email:
 version:  0.0.1
@@ -177,9 +176,7 @@ Type of start?
     | historical point
     ]]
 
-## How to tell a compelling story in scientific presentations
-
-
+## 3. How to tell a compelling story in scientific presentations
 
 > Read [this article](https://www.nature.com/articles/d41586-021-03603-2) from the journal *Nature* and answer and then discuss the following questions:
 
