@@ -2,7 +2,7 @@
 
 author:   Dr. Mark Jacob, Maximilian Dörnbrack
 email:
-version:  1.0.0
+version:  0.0.1
 language: de
 narrator: Deutsch Female
 comment: Impactful English Presentations
@@ -10,6 +10,14 @@ comment: Impactful English Presentations
 -->
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/SciPres/blob/main/activities.md)
+
+# Rules
+
+> 1. Let people speak and finish their sentences
+
+> 2. What is said in the workshop stays in the workshop
+
+> 3. We respect each other's opinion and ideas.
 
 # List of activities
 
@@ -34,7 +42,25 @@ comment: Impactful English Presentations
 
 # Ball game
 
+**Aim:**
+- to learn each other's names
+- to cooperate ahead of other activities
+- to break the ice at the beginning
+
+**Materials:** ball for each group
+Two groups of 8 participants stand in a circle. One person starts with the ball. He says a name and throws the ball to that person, but not to the person next to him/her. The next person says a name and throws the ball to that person. Finally the ball gets to back to the first person. The groups repeat this, getting faster and faster and I time them to see which group is faster. Then they find ways of going even faster (eg. by moving closer together)
+
+**Discussion:** Did you work well together? Is it important to know names?
+
 # Alphabetical names
+
+**Aim:** To test whether names have been learnt. To learn names from the other group.
+
+**Materials:** None
+
+Each group lines up in alphabetical order of first names from left to right. Then all participants line up.
+
+**Note:** For communicating, a name is very important Use but don't overuse!
 
 # Experience/Expectations
 
@@ -64,9 +90,7 @@ Spiel kann mit diesen Break out rooms bei BBB gemacht werden. Also immer zwei zu
 **Material:**
 slide flipchart, paper and pens
 
-Ich habe die über so ein Onlinetool erstellt ich weiss nicht ob das okay wegen Lizenz und so
-
-![Mindmap](https://github.com/markjjacob/SciPres/blob/main/Mindmap.png)
+![Mindmap](https://www.plantuml.com/plantuml/png/ZP71QeKm44Nt-Og1BeCfnPKGH6ef_OEkfneqD9afCK6azDyhcatJ1y_bFVTm4vXkYHYYjpHw_19wYPiphSZvnU8KqCEt053EueTBvWW0ppXyJe4JZJqx3l1GDyrJKn_TArCywJhRQ7Rs8_HZdXOIUlO-aHqmMYRGEY-thP0ItcUC1PEWbFhl6Rhe1ND5B96eAdZZzG-hCdDCqyt2fs4kYlq7M-cMZvqQtzKwGsE-pIy0)
 
 Improve on this mind map!
 
@@ -81,14 +105,128 @@ Before we do this we'll have discussed the slide on the definition of communicat
 
 
 # Giving presentations
+
+**Aim:** For participants to show how they give presentations and to get feedback on the main issues.
+
+**Materials:** Projector and laptop. Pens/paper.
+
+Participant take in turns to give a shot presentation (2 or 5 min) with one question allowed at the end. The others evaluate the presentations using a simple evaluation sheet (given by me). On the back of the sheet there is space to write down the points that are important when giving a presentation.
+
+<!--
+@@@
+Ist auch gut online möglich. Ich glaube das Problem ist ein bisschen die Erstellung der Mini-presentations. Man könnte vorher vorbereitette nehmen. Es gibt auch das Spiel Powerpoint Karaoke. Man bekommt eine Präsentation ohne das Thema zu kennen und muss dann aus dem Stegreif einen Vortag halten. Weiss aber nicht wie gut das wirklich ist oder mehr als Auflockerung. Habe nur Sachen auf Deutsch gefunden. Aber kann auch auf Google bei so klassischen Themen und .ptt etwas finden.
+@end
+-->
+- my feedback
 # Brainstorming good presentations
+
+**Aim:** For the participants to share and distil their own views on what makes a good presentation.
+
+**Materials:** flipchart sheet, Pens
+
+Working in groups of 3, participants get their ideas down on a flipchart sheet. They then hang up their sheets around the room.
+
+- everyone has the time (possibility at lunchtime) to look at all the flipchart sheets
+- Plenary discussion about the ideas
+
+<!--
+@@@
+Ist auch gut online möglich. Wieder mit den breakout Räumen kleine Gruppen erstellen. Man kann die Vorschläge schriftlich also auf einen gemeinsamen Screen sammeln.
+@end
+-->
+
 # Presentation basic activities
+
+**~~Activity 1~~**
+
+**Aim:** To practice the material I present to the participants on the principles of giving a good presentation.
+
+**Materials:** A printout version of the participants presentation
+
+Participants go through their presentations and identify a "premise" for the whole talk and premise for each slide.  
+
+**~~Activity 2~~**
+
+**Aim:** To acclimatise participants to eye contact
+
+**Materials:** 2 chairs opposite each other. With a partner, participants look into each others eyes for one minute. Afterwards we discuss how this was for them.
+
 # Voice activities
+
+**~~A breathing exercise~~**
+
+**Aim:** For the participants to become aware of their breath. For the participants to practise speaking from their bellies.
+
+**Materials:** None (maybe a slide with a picture on it)
+Participants all stand up facing me. I give them instructions to stand up straight and breathe in. Ask them what happens when they breath in. Where can they feel the breath? Where can they feel the body move? Put a hand on your belly. Breath and feel the belly rise. Breathe in and feel the belly rise. Breathe out and feel it sink. Practice this for a couple of minutes.
+
+- Breathe in to chest
+- Breathe in to mouth
+- Breathe up and down. How does it feel?
+- Making noises on the out breathe. How does it feel?
+- -> Making very loud noises on the out breathe.
+- Reading something out
+- -> out from belly
+- -> out from chest
+- -> from the throat
+- Which feels best?
+
+**~~A volume exercise~~**
+
+**Aim:** For participants to practise varying the volume of their voice and to become aware of their voice volume.
+- Reading out sentences loudly and quietly. (pair work)
+
+**~~A prosody exercise~~**
+
+**Aim:** To get used to saying things in different ways.
+- Read the sentences with different feelings.
+
+**Note::**
+
+Pros = towards
+
+Aoide = a song
+
+**Prosody** the patterns of stress and intonation in a language
+
+**Intonation** the sound pattern of phrases and sentences produced by pitch variation in the voice.
+
+
 # Body language activities
 # Posture activities
+
+> upright, turn towards audience, open
+
 # Putting it together activity
+
+**Mind** Grounding, Breathing, Expanding, Presence
+
 # Questions activity
 # Small talk activity
+
+**~~Elevator pitch~~**
+30s to 2 minutes
+
+1. Say who you are.
+2. Say who you work for.
+3. Say what you do.
+4. Say why your work is relevant to the other person.
+5. What do you want? What can you offer?
+6. Get an outcome
+
+
+- Happy, sad, hope, happy
+- -> an emotional arc to the story
+> New Zeeland is rightfully proud of its spectacular rivers (Happy)
+
+> but pollution from agriculture and from cities means that some of these rivers aren't always safe to swim in. (Sad)
+
+> Our reasearch help dairy farmers to find ways to reduce pollution, while still producing plenty of good New Zeeland milk. (Hope)
+
+> So that soon we will all be able to enjoy swimming in the rivers again. (Happy)
+
+on forbes.com originally on Quora
+
 # Matching tone points activity
 # Another rhetoric activity
 # Preparing presentation instructions

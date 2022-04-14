@@ -2,7 +2,7 @@
 
 author:   Dr. Mark Jacob, Maximilian Dörnbrack
 email:
-version:  1.0.0
+version:  0.0.1
 language: de
 narrator: Deutsch Female
 comment: Impactful English Presentations
@@ -37,3 +37,29 @@ class="animated infinite bounce"
 style="animation-delay: 3s;"
 -->, mit Ausnahme diese Smileys, dass nach drei
 Sekunden zu hüpfen beginnt.
+
+
+
+
+```` ascii
+    -----. O
+          \
+           \________
+           /        \
+          /        \ \
+         /            \____________ N
+         \            /
+          \        / /
+           \________/
+````
+
+```` ascii
+       HO
+        \
+         \
+          \____________
+          /------------ O
+         /
+   _____/
+ H2N
+````                 
