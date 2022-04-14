@@ -159,12 +159,11 @@ Type of start?
 
 Type of start?
 
-[  quotations
+[[  quotations
     | personal experience
     |   current events
     | ( rhetorical question )
     ]]
-[[rhetorical question]]
 
 !?[Video](https://www.youtube.com/watch?v=Unzc731iCUY)
 
