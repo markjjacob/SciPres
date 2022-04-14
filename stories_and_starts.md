@@ -11,7 +11,7 @@ icon: ./img/TUBAF_Logo_orig_RGB.jpg
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/SciPres/blob/main/presentation_starts.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/SciPres/blob/main/stories_and_starts.md)
 
 # Our first hybrid lesson
 
