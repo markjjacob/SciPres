@@ -3,23 +3,33 @@
 author:   Dr. Mark Jacob, Maximilian Dörnbrack
 email:
 version:  0.0.1
-language: de
-narrator: Deutsch Female
-comment: Impactful English Presentations
+language: en
+narrator: UK English Female
+comment: Advice from Uri Alon on how to give a good talk
 
 -->
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/SciPres/main/urialon.md)
 
 # How To Give a Good Talk
+
 **Uri Alon**
 *Molecular Cell 36, 2009 Elsevier Inc*
 
 [PDF](https://www.cell.com/action/showPdf?pii=S1097-2765%2809%2900742-4)
 
-{{1}} > Anyone can give good talk.
+{{1}} > Anyone can give a good talk.
 
-{{2}} > All scientists should be trained in the basics of giving talks, to the great benefit of their research programs and the audience
+    [[Yes]] Yes
+    [[No]] No
+    
+{{2}} > All researchers should be trained in the basics of giving talks, to the great benefit of their research programs and the audience
+
+    [[Training][No training]]
+    [                       ] researchers
+    [                       ] lecturers
+    [                       ] students
+    [                       ] me
 
 
 {{3}} > The three principles of a good talk areas follows:
