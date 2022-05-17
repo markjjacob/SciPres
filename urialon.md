@@ -2,7 +2,7 @@
 
 author:   Dr. Mark Jacob, Maximilian Dörnbrack
 email:
-version:  0.0.1
+version:  0.0.2
 language: en
 narrator: UK English Female
 comment: Advice from Uri Alon on how to give a good talk
@@ -20,27 +20,27 @@ comment: Advice from Uri Alon on how to give a good talk
 
 {{1}} > Anyone can give a good talk.
 
-    [[Yes]] Yes
-    [[No]] No
+{{2}}    [[Yes]] Yes
+         [[No]] No
     
-{{2}} > All researchers should be trained in the basics of giving talks, to the great benefit of their research programs and the audience
+{{3}} > All researchers should be trained in the basics of giving talks, to the great benefit of their research programs and the audience
 
-    [[Training][No training]]
-    [                       ] researchers
-    [                       ] lecturers
-    [                       ] students
-    [                       ] me
-
-
-{{3}} > The three principles of a good talk areas follows:
-{{4-7}} >> Preparation
-{{5-7}} >> Presentation
-{{6-7}} >> Questions
-
-{{8}} ![Bild](https://ars.els-cdn.com/content/image/1-s2.0-S1097276509007424-gr1.jpg)
+{{4}}    [[None][Low][Some][High]]
+         [                       ] researchers
+         [                       ] lecturers
+         [                       ] students
+         [                       ] me
 
 
-{{9}} > Goal: Let your inner glow and insights shine out
+{{5}} > The three principles of a good talk areas follows:
+{{6-9}} >> Preparation
+{{7-9}} >> Presentation
+{{8-9}} >> Questions
+
+{{9}} ![Bild](https://ars.els-cdn.com/content/image/1-s2.0-S1097276509007424-gr1.jpg)
+
+
+{{10}} > Goal: Let your inner glow and insights shine out
 
 ## Preparation
 
