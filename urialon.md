@@ -6,7 +6,7 @@ version:  0.0.2
 language: en
 narrator: UK English Female
 comment: Advice from Uri Alon on how to give a good talk
-
+icon: ./img/WBM_orig_RGB.jpg
 -->
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/SciPres/main/urialon.md)
