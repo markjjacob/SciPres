@@ -18,9 +18,9 @@ comment: Advice from Uri Alon on how to give a good talk
 
 [PDF](https://www.cell.com/action/showPdf?pii=S1097-2765%2809%2900742-4)
 
-{{1}} > Anyone can give a good talk.
+{{1-3}} > Anyone can give a good talk.
 
-{{2}}    [[Yes]] Yes
+{{2-3}}  [[Yes]] Yes
          [[No]] No
     
 {{3}} > All researchers should be trained in the basics of giving talks, to the great benefit of their research programs and the audience
