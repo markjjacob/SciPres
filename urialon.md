@@ -184,3 +184,11 @@ Das Buch ist sehr lang und dauert deswegen relativ lange zum laden also mit ??
 !?[Public Narrative](https://www.youtube.com/watch?v=g7CW_10C7lQ)
 
 !?[Public Narrative](https://www.youtube.com/watch?v=r1Z2Rog--P8&list=PLaT8gjnOmQl2fjCj76sAH1jXwKtlASzjN)
+
+### Next week
+
+         [[Yes][No][Maybe]]
+         [                ] body language
+         [                ] questions
+         [                ] slide transitions
+         [                ] presentation samples
