@@ -23,9 +23,9 @@ comment: Advice from Uri Alon on how to give a good talk
 {{2-3}}  [[Yes]] Yes
          [[No]] No
     
-{{3}} > All researchers should be trained in the basics of giving talks, to the great benefit of their research programs and the audience
+{{3-5}} > All researchers should be trained in the basics of giving talks, to the great benefit of their research programs and the audience
 
-{{4}}    [[None][Low][Some][High]]
+{{4-5}}  [[None][Low][Some][High]]
          [                       ] researchers
          [                       ] lecturers
          [                       ] students
